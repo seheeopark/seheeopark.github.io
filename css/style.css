@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+    transition: all 0.5s ease-out;
+}
+
+/* create active class */ 
+.active {
+    color: palevioletred;
+}
+
+.hidden {
+    display: none;
+}
